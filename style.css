@@ -21,6 +21,7 @@
 body {
     background-color: var(--bg-color);
     color: var(--text-color);
+    transition: all ease 1.2s;
 }
 
 header {
@@ -233,4 +234,5 @@ body.color {
     --bg-color: #08162a;
     --main-color: #7c8ce9;
     --second-color: #2b3544;
+    transition: all ease 1.2s;
 }
